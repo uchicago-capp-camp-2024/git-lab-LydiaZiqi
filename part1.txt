@@ -14,6 +14,6 @@ Ctrl + A
 
 4. What is a command that you type to get help with other commands and programs?
 
-man
+tldr
 
 
